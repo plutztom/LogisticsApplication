@@ -1,0 +1,36 @@
+
+
+Item ID: PL132-C, Quantity: 15
+Logistics Details:
+
+
+Name: Seattle, WA (15 of 15)
+   Processing Start: Day 1
+   Processing End: Day 7
+   Travel Start: Day 8
+   Travel End: Day 14
+
+
+Item ID: XLK200B, Quantity: 120
+Logistics Details:
+
+
+Name: San Francisco, CA (8 of 120)
+   Processing Start: Day 1
+   Processing End: Day 1
+   Travel Start: Day 9
+   Travel End: Day 9
+
+
+Name: Fargo, ND (82 of 120)
+   Processing Start: Day 1
+   Processing End: Day 12
+   Travel Start: Day 5
+   Travel End: Day 16
+
+
+Name: Nashville, TN (30 of 120)
+   Processing Start: Day 1
+   Processing End: Day 3
+   Travel Start: Day 4
+   Travel End: Day 6

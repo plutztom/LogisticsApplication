@@ -1,0 +1,75 @@
+
+
+Item ID: SN-241-L, Quantity: 60
+Logistics Details:
+
+
+Name: Miami, FL (28 of 60)
+   Processing Start: Day 7
+   Processing End: Day 17
+   Travel Start: Day 12
+   Travel End: Day 22
+
+
+Name: Phoenix, AZ (22 of 60)
+   Processing Start: Day 7
+   Processing End: Day 9
+   Travel Start: Day 11
+   Travel End: Day 13
+
+
+Name: Austin, TX (10 of 60)
+   Processing Start: Day 7
+   Processing End: Day 7
+   Travel Start: Day 9
+   Travel End: Day 9
+
+
+Item ID: RX100-3, Quantity: 200
+Logistics Details:
+
+
+Name: Los Angeles, CA (57 of 200)
+   Processing Start: Day 7
+   Processing End: Day 12
+   Travel Start: Day 12
+   Travel End: Day 17
+
+
+Name: Phoenix, AZ (18 of 200)
+   Processing Start: Day 7
+   Processing End: Day 11
+   Travel Start: Day 11
+   Travel End: Day 15
+
+
+Name: Atlanta, GA (90 of 200)
+   Processing Start: Day 7
+   Processing End: Day 16
+   Travel Start: Day 11
+   Travel End: Day 20
+
+
+Name: Santa Fe, NM (35 of 200)
+   Processing Start: Day 7
+   Processing End: Day 0
+   Travel Start: Day 10
+   Travel End: Day 3
+
+
+Item ID: XLK200B, Quantity: 120
+Logistics Details:
+
+
+Name: Norfolk, VA (14 of 120)
+   Processing Start: Day 7
+   Processing End: Day 8
+   Travel Start: Day 9
+   Travel End: Day 10
+
+
+Name: Nashville, TN (106 of 120)
+   Processing Start: Day 7
+   Processing End: Day 28
+   Travel Start: Day 8
+   Travel End: Day 29

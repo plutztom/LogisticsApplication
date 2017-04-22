@@ -1,0 +1,50 @@
+
+
+Item ID: ABC123, Quantity: 180
+Logistics Details:
+
+
+Name: Seattle, WA (45 of 180)
+   Processing Start: Day 1
+   Processing End: Day 5
+   Travel Start: Day 11
+   Travel End: Day 15
+
+
+Name: Fargo, ND (25 of 180)
+   Processing Start: Day 1
+   Processing End: Day 3
+   Travel Start: Day 7
+   Travel End: Day 9
+
+
+Name: Denver, CO (80 of 180)
+   Processing Start: Day 1
+   Processing End: Day 8
+   Travel Start: Day 7
+   Travel End: Day 14
+
+
+Name: Chicago, IL (30 of 180)
+   Processing Start: Day 1
+   Processing End: Day 3
+   Travel Start: Day 6
+   Travel End: Day 8
+
+
+Item ID: CR2032, Quantity: 320
+Logistics Details:
+
+
+Name: Santa Fe, NM (280 of 320)
+   Processing Start: Day 1
+   Processing End: Day 28
+   Travel Start: Day 6
+   Travel End: Day 33
+
+
+Name: New York City, NY (40 of 320)
+   Processing Start: Day 1
+   Processing End: Day 4
+   Travel Start: Day 4
+   Travel End: Day 7

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<facilities>
+		<id>0</id>
+		<name>Seattle, WA</name>
+		<rate>8</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>6</id>
+			<name>Fargo, ND</name>
+			<distance>1426</distance>
+		</neighbors>
+		<neighbors>
+			<id>1</id>
+			<name>San Francisco, CA</name>
+			<distance>808</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>1</id>
+		<name>San Francisco, CA</name>
+		<rate>12</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>5</id>
+			<name>Denver, CO</name>
+			<distance>1249</distance>
+		</neighbors>
+		<neighbors>
+			<id>2</id>
+			<name>Los Angeles, CA</name>
+			<distance>382</distance>
+		</neighbors>
+		<neighbors>
+			<id>0</id>
+			<name>Seattle, WA</name>
+			<distance>808</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>2</id>
+		<name>Los Angeles, CA</name>
+		<rate>10</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>3</id>
+			<name>Phoenix, AZ</name>
+			<distance>372</distance>
+		</neighbors>
+		<neighbors>
+			<id>1</id>
+			<name>San Francisco, CA</name>
+			<distance>382</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>3</id>
+		<name>Phoenix, AZ</name>
+		<rate>8</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>4</id>
+			<name>Santa Fe, NM</name>
+			<distance>480</distance>
+		</neighbors>
+		<neighbors>
+			<id>2</id>
+			<name>Los Angeles, CA</name>
+			<distance>372</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>4</id>
+		<name>Santa Fe, NM</name>
+		<rate>10</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>3</id>
+			<name>Phoenix, AZ</name>
+			<distance>480</distance>
+		</neighbors>
+		<neighbors>
+			<id>5</id>
+			<name>Denver, CO</name>
+			<distance>392</distance>
+		</neighbors>
+		<neighbors>
+			<id>8</id>
+			<name>St. Louis, MO</name>
+			<distance>1032</distance>
+		</neighbors>
+		<neighbors>
+			<id>7</id>
+			<name>Austin, TX</name>
+			<distance>688</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>5</id>
+		<name>Denver, CO</name>
+		<rate>10</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>1</id>
+			<name>San Francisco, CA</name>
+			<distance>1249</distance>
+		</neighbors>
+		<neighbors>
+			<id>4</id>
+			<name>Santa Fe, NM</name>
+			<distance>392</distance>
+		</neighbors>
+		<neighbors>
+			<id>6</id>
+			<name>Fargo, ND</name>
+			<distance>889</distance>
+		</neighbors>
+		<neighbors>
+			<id>8</id>
+			<name>St. Louis, MO</name>
+			<distance>851</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>6</id>
+		<name>Fargo, ND</name>
+		<rate>8</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>0</id>
+			<name>Seattle, WA</name>
+			<distance>1426</distance>
+		</neighbors>
+		<neighbors>
+			<id>5</id>
+			<name>Denver, CO</name>
+			<distance>889</distance>
+		</neighbors>
+		<neighbors>
+			<id>9</id>
+			<name>Chicago, IL</name>
+			<distance>643</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>7</id>
+		<name>Austin, TX</name>
+		<rate>10</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>4</id>
+			<name>Santa Fe, NM</name>
+			<distance>688</distance>
+		</neighbors>
+		<neighbors>
+			<id>8</id>
+			<name>St. Louis, MO</name>
+			<distance>825</distance>
+		</neighbors>
+		<neighbors>
+			<id>10</id>
+			<name>New Orleans, LA</name>
+			<distance>512</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>8</id>
+		<name>St. Louis, MO</name>
+		<rate>12</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>5</id>
+			<name>Denver, CO</name>
+			<distance>851</distance>
+		</neighbors>
+		<neighbors>
+			<id>4</id>
+			<name>Santa Fe, NM</name>
+			<distance>1032</distance>
+		</neighbors>
+		<neighbors>
+			<id>7</id>
+			<name>Austin, TX</name>
+			<distance>825</distance>
+		</neighbors>
+		<neighbors>
+			<id>9</id>
+			<name>Chicago, IL</name>
+			<distance>297</distance>
+		</neighbors>
+		<neighbors>
+			<id>11</id>
+			<name>Nashville, TN</name>
+			<distance>309</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>9</id>
+		<name>Chicago, IL</name>
+		<rate>10</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>6</id>
+			<name>Fargo, ND</name>
+			<distance>643</distance>
+		</neighbors>
+		<neighbors>
+			<id>16</id>
+			<name>Detroit, MI</name>
+			<distance>282</distance>
+		</neighbors>
+		<neighbors>
+			<id>15</id>
+			<name>New York City, NY</name>
+			<distance>790</distance>
+		</neighbors>
+		<neighbors>
+			<id>8</id>
+			<name>St. Louis, MO</name>
+			<distance>297</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>10</id>
+		<name>New Orleans, LA</name>
+		<rate>10</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>7</id>
+			<name>Austin, TX</name>
+			<distance>512</distance>
+		</neighbors>
+		<neighbors>
+			<id>11</id>
+			<name>Nashville, TN</name>
+			<distance>532</distance>
+		</neighbors>
+		<neighbors>
+			<id>13</id>
+			<name>Atlanta, GA</name>
+			<distance>532</distance>
+		</neighbors>
+		<neighbors>
+			<id>12</id>
+			<name>Miami, FL</name>
+			<distance>864</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>11</id>
+		<name>Nashville, TN</name>
+		<rate>8</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>8</id>
+			<name>St. Louis, MO</name>
+			<distance>309</distance>
+		</neighbors>
+		<neighbors>
+			<id>10</id>
+			<name>New Orleans, LA</name>
+			<distance>532</distance>
+		</neighbors>
+		<neighbors>
+			<id>14</id>
+			<name>Norfolk, VA</name>
+			<distance>706</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>12</id>
+		<name>Miami, FL</name>
+		<rate>12</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>10</id>
+			<name>New Orleans, LA</name>
+			<distance>864</distance>
+		</neighbors>
+		<neighbors>
+			<id>13</id>
+			<name>Atlanta, GA</name>
+			<distance>663</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>13</id>
+		<name>Atlanta, GA</name>
+		<rate>10</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>10</id>
+			<name>New Orleans, LA</name>
+			<distance>469</distance>
+		</neighbors>
+		<neighbors>
+			<id>14</id>
+			<name>Norfolk, VA</name>
+			<distance>566</distance>
+		</neighbors>
+		<neighbors>
+			<id>12</id>
+			<name>Miami, FL</name>
+			<distance>663</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>14</id>
+		<name>Norfolk, VA</name>
+		<rate>10</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>11</id>
+			<name>Nashville, TN</name>
+			<distance>704</distance>
+		</neighbors>
+		<neighbors>
+			<id>15</id>
+			<name>New York City, NY</name>
+			<distance>363</distance>
+		</neighbors>
+		<neighbors>
+			<id>13</id>
+			<name>Atlanta, GA</name>
+			<distance>566</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>15</id>
+		<name>New York City, NY</name>
+		<rate>14</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>9</id>
+			<name>Chicago, IL</name>
+			<distance>790</distance>
+		</neighbors>
+		<neighbors>
+			<id>16</id>
+			<name>Detroit, MI</name>
+			<distance>614</distance>
+		</neighbors>
+		<neighbors>
+			<id>17</id>
+			<name>Boston, MA</name>
+			<distance>215</distance>
+		</neighbors>
+		<neighbors>
+			<id>14</id>
+			<name>Norfolk, VA</name>
+			<distance>363</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>16</id>
+		<name>Detroit, MI</name>
+		<rate>10</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>9</id>
+			<name>Chicago, IL</name>
+			<distance>282</distance>
+		</neighbors>
+		<neighbors>
+			<id>15</id>
+			<name>New York City, NY</name>
+			<distance>614</distance>
+		</neighbors>
+		<neighbors>
+			<id>17</id>
+			<name>Boston, MA</name>
+			<distance>719</distance>
+		</neighbors>
+	</facilities>
+	<facilities>
+		<id>17</id>
+		<name>Boston, MA</name>
+		<rate>10</rate>
+		<cost>300</cost>
+		<neighbors>
+			<id>16</id>
+			<name>Detroit, MI</name>
+			<distance>719</distance>
+		</neighbors>
+		<neighbors>
+			<id>15</id>
+			<name>New York City, NY</name>
+			<distance>215</distance>
+		</neighbors>
+	</facilities>
+</root>

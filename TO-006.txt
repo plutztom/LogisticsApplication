@@ -1,0 +1,50 @@
+
+
+Item ID: CT1928, Quantity: 120
+Logistics Details:
+
+
+Name: Boston, MA (65 of 120)
+   Processing Start: Day 8
+   Processing End: Day 14
+   Travel Start: Day 13
+   Travel End: Day 19
+
+
+Name: Detroit, MI (55 of 120)
+   Processing Start: Day 8
+   Processing End: Day 14
+   Travel Start: Day 11
+   Travel End: Day 17
+
+
+Item ID: MM35P, Quantity: 200
+Logistics Details:
+
+
+Name: Miami, FL (16 of 200)
+   Processing Start: Day 8
+   Processing End: Day 19
+   Travel Start: Day 14
+   Travel End: Day 25
+
+
+Name: Boston, MA (47 of 200)
+   Processing Start: Day 8
+   Processing End: Day 19
+   Travel Start: Day 13
+   Travel End: Day 24
+
+
+Name: Norfolk, VA (66 of 200)
+   Processing Start: Day 8
+   Processing End: Day 15
+   Travel Start: Day 12
+   Travel End: Day 19
+
+
+Name: New Orleans, LA (71 of 200)
+   Processing Start: Day 8
+   Processing End: Day 15
+   Travel Start: Day 11
+   Travel End: Day 18

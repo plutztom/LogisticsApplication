@@ -1,0 +1,50 @@
+
+
+Item ID: SR71-D, Quantity: 85
+Logistics Details:
+
+
+Name: Miami, FL (15 of 85)
+   Processing Start: Day 10
+   Processing End: Day 14
+   Travel Start: Day 16
+   Travel End: Day 20
+
+
+Name: Detroit, MI (8 of 85)
+   Processing Start: Day 10
+   Processing End: Day 10
+   Travel Start: Day 15
+   Travel End: Day 15
+
+
+Name: St. Louis, MO (45 of 85)
+   Processing Start: Day 10
+   Processing End: Day 14
+   Travel Start: Day 13
+   Travel End: Day 17
+
+
+Name: San Francisco, CA (17 of 85)
+   Processing Start: Day 10
+   Processing End: Day 11
+   Travel Start: Day 11
+   Travel End: Day 12
+
+
+Item ID: CR2032, Quantity: 200
+Logistics Details:
+
+
+Name: New York City, NY (92 of 200)
+   Processing Start: Day 10
+   Processing End: Day 22
+   Travel Start: Day 16
+   Travel End: Day 28
+
+
+Name: Nashville, TN (108 of 200)
+   Processing Start: Day 10
+   Processing End: Day 20
+   Travel Start: Day 14
+   Travel End: Day 24

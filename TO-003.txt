@@ -1,0 +1,43 @@
+
+
+Item ID: XTP202, Quantity: 100
+Logistics Details:
+
+
+Name: Miami, FL (88 of 100)
+   Processing Start: Day 4
+   Processing End: Day 12
+   Travel Start: Day 14
+   Travel End: Day 22
+
+
+Name: Chicago, IL (12 of 100)
+   Processing Start: Day 4
+   Processing End: Day 5
+   Travel Start: Day 9
+   Travel End: Day 10
+
+
+Item ID: E241i, Quantity: 105
+Logistics Details:
+
+
+Name: Atlanta, GA (32 of 105)
+   Processing Start: Day 4
+   Processing End: Day 7
+   Travel Start: Day 13
+   Travel End: Day 16
+
+
+Name: New York City, NY (72 of 105)
+   Processing Start: Day 4
+   Processing End: Day 12
+   Travel Start: Day 11
+   Travel End: Day 19
+
+
+Name: Chicago, IL (1 of 105)
+   Processing Start: Day 4
+   Processing End: Day 6
+   Travel Start: Day 9
+   Travel End: Day 11
